@@ -1,1 +1,2 @@
 # K-Nearest-Neighbors
+Project assigned in CPSC 3400 Languages and Computation. Uses the K-Nearest neighbors algorithm to predict a value based on values of other entities related to the entity being predicted. For example, we used known house prices to estimate the price of a new house. We used houses that were geographically nearest to the new house and their existing prices to estimate the price of that house. K value can be changed to alter the number of houses nearest the new house that were being used to predict the new house's price.
